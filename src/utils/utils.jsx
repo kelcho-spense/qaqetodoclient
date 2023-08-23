@@ -1,0 +1,1 @@
+export const apiDomain = 'https://qaqetodoapi.azurewebsites.net/';
